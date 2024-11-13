@@ -11,7 +11,7 @@ One Database Server: This server will run MySQL, handling all database operation
 ## Implementation
 
 ### VMs Setup
-![image](https://github.com/user-attachments/assets/5cb29c9e-a2d6-48bd-a10a-d2c096acf20a) <br>
+![image](https://github.com/user-attachments/assets/ef127f12-6056-4b31-a910-5150ba49f4ea) <br>
 
 ### Ansible controller setup
 Login(SSH) to the ansible_controller VM and install ansible and python. <br>
