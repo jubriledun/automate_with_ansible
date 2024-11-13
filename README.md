@@ -21,15 +21,16 @@ Login(SSH) to the ansible_controller VM and install ansible and python. <br>
   sudo add-apt-repository --yes --update ppa:ansible/ansible
   sudo apt install ansible
 ```
-![image](https://github.com/user-attachments/assets/2c0eeef8-a5da-41b9-bbe8-b29af074359d) <br>
+![image](https://github.com/user-attachments/assets/2c0eeef8-a5da-41b9-bbe8-b29af074359d) <br> <br>
 
 
 ### Write inventory files
 Write the inventroy files in the ansible_controller VM that will provide information (e.g. IP address, username, passwords etc) to ansible about it's targets. <br>
-![image](https://github.com/user-attachments/assets/29519cd7-f221-4138-bf02-03671c6cdda6) <br>
+![image](https://github.com/user-attachments/assets/29519cd7-f221-4138-bf02-03671c6cdda6) <br> <br>
 
-Test Connections
-![image](https://github.com/user-attachments/assets/e1f3ee0e-3605-4461-a512-2d33b0054357) <br>
+
+### Test Connections
+![image](https://github.com/user-attachments/assets/e1f3ee0e-3605-4461-a512-2d33b0054357) <br> <br>
 
 
 
