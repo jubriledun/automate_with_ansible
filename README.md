@@ -6,7 +6,7 @@ In this hands-on project, we'll use Ansible to automate the setup of a simple we
 The setup is as follows: <br>
 Ansible Controller: This server is responsible for managing and orchestrating the automation tasks across the environment. <br> 
 Two Web Servers: These servers will host the web application using Nginx as the web server software. They serve as the front-end for delivering the web content. <br>
-One Database Server: This server will run MySQL, handling all database operations for the application. <br>
+One Database Server: This server will run MariaDB, handling all database operations for the application. <br>
 
 ## Implementation
 
@@ -42,10 +42,8 @@ Create a playbook file webserver.yml for setting up Nginx on the webservers <br>
 ![image](https://github.com/user-attachments/assets/4198b65c-e99b-4bd6-8ff1-08490f1895ad) <br> <br>
 
 ### Playbook for Database Server Setup
-Create a playbook file dbserver.yml for setting up MySQL <br>
-![image](https://github.com/user-attachments/assets/8fa414cb-3476-43d3-b83b-ca4f21a8b028) <br> <br>
-
-
+Create a playbook file dbserver.yml for setting up MariaDB <br>
+![image](https://github.com/user-attachments/assets/a95f6892-1506-4c4b-bf89-ac4c51815368) <br> <br>
 
 
 ### Run the Web Server Setup
