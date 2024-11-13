@@ -61,6 +61,10 @@ Create a playbook file dbserver.yml for setting up MySQL <br>
 
 
 ### Run the Database Server Setup
+![image](https://github.com/user-attachments/assets/f6c737aa-4331-40c2-a8b5-3149b4d31f05) <br> <br>
+![image](https://github.com/user-attachments/assets/17c17650-3860-4533-a40d-040d1bfffbf9) <br> <br>
+
+
 
 
 
