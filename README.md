@@ -1,7 +1,7 @@
 # automate_with_ansible
 
 ## Project Summary
-In this hands-on project, we'll use Ansible to automate the setup of a simple web application environment on four virtual machines hosted in AWS. All four VMs are configured within the same local VPC (Virtual Private Cloud) network, ensuring secure and efficient communication between the servers.
+In this hands-on project, I'll use Ansible to automate the setup of a simple web application environment on four virtual machines hosted in AWS. All four VMs are configured within the same local VPC (Virtual Private Cloud) network, ensuring secure and efficient communication between the servers.
 
 The setup is as follows: <br>
 Ansible Controller: This server is responsible for managing and orchestrating the automation tasks across the environment. <br> 
