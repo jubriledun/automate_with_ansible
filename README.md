@@ -43,6 +43,8 @@ Create a playbook file webserver.yml for setting up Nginx on the webservers <br>
 
 ### Playbook for Database Server Setup
 Create a playbook file dbserver.yml for setting up MySQL <br>
+![image](https://github.com/user-attachments/assets/8fa414cb-3476-43d3-b83b-ca4f21a8b028) <br> <br>
+
 
 
 
