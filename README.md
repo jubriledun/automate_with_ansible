@@ -46,9 +46,19 @@ Create a playbook file dbserver.yml for setting up MySQL <br>
 ![image](https://github.com/user-attachments/assets/8fa414cb-3476-43d3-b83b-ca4f21a8b028) <br> <br>
 
 
+
+
 ### Run the Web Server Setup
 ![image](https://github.com/user-attachments/assets/dedb8e48-46c5-44e8-a494-864383942f4a) <br> <br>
 ![image](https://github.com/user-attachments/assets/840e0f92-20f7-422d-ba3a-19e41d6ca0ec) <br> <br>
+
+
+### Confirm web server is running
+![image](https://github.com/user-attachments/assets/34be11c5-7989-4d41-a429-c4f5ee4330fd) <br> <br>
+
+![image](https://github.com/user-attachments/assets/de3a3b9f-198a-4431-a572-bbc532ef88d0) <br> <br>
+
+
 
 ### Run the Database Server Setup
 
