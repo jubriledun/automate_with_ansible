@@ -22,4 +22,7 @@ Login(SSH) to the ansible_controller VM and install ansible and python. <br>
   sudo apt install ansible
 ```
 
-### Establish connections 
+### Write inventory files
+Write the inventroy files in the ansible_controller VM that will provide information (e.g. IP address, username, passwords etc) to ansible about it's targets. <br>
+![image](https://github.com/user-attachments/assets/56310afe-578d-4ba5-8e44-05dc0bf94d4d)
+
