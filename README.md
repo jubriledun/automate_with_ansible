@@ -14,7 +14,7 @@ One Database Server: This server will run MySQL, handling all database operation
 ![image](https://github.com/user-attachments/assets/ef127f12-6056-4b31-a910-5150ba49f4ea) <br>
 
 ### Ansible controller setup
-Login(SSH) to the ansible_controller VM and install ansible<br>
+### Login(SSH) to the ansible_controller VM and install ansible<br>
 ```
   sudo apt update
   sudo apt install software-properties-common
@@ -23,7 +23,7 @@ Login(SSH) to the ansible_controller VM and install ansible<br>
 ```
 ![image](https://github.com/user-attachments/assets/2c0eeef8-a5da-41b9-bbe8-b29af074359d) <br> <br>
 
-Create an Ansible configuration file to specify the inventory <br>
+### Create an Ansible configuration file to specify the inventory <br>
 ![image](https://github.com/user-attachments/assets/65ef10ae-602d-4307-b61c-4891f47cecb6) <br> <br>
 
 
