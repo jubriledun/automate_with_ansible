@@ -41,6 +41,10 @@ Write the inventroy files in the ansible_controller VM that will provide informa
 Create a playbook file webserver.yml for setting up Nginx on the webservers <br>
 ![image](https://github.com/user-attachments/assets/4198b65c-e99b-4bd6-8ff1-08490f1895ad) <br> <br>
 
+### Playbook for Database Server Setup
+Create a playbook file dbserver.yml for setting up MySQL <br>
+
+
 
 
 
