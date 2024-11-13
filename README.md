@@ -65,6 +65,8 @@ Create a playbook file dbserver.yml for setting up MariaDB <br>
 ### Confirm database server is runnning
 ![image](https://github.com/user-attachments/assets/de8bdfb8-40ad-49d5-9938-7003ead09ee9) <br> <br>
 
+Done.
+
 
 
 
