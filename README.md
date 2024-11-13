@@ -26,6 +26,10 @@ Login(SSH) to the ansible_controller VM and install ansible and python. <br>
 
 ### Write inventory files
 Write the inventroy files in the ansible_controller VM that will provide information (e.g. IP address, username, passwords etc) to ansible about it's targets. <br>
-![image](https://github.com/user-attachments/assets/29519cd7-f221-4138-bf02-03671c6cdda6)
+![image](https://github.com/user-attachments/assets/29519cd7-f221-4138-bf02-03671c6cdda6) <br>
+
+Test Connections
+![image](https://github.com/user-attachments/assets/e1f3ee0e-3605-4461-a512-2d33b0054357) <br>
+
 
 
