@@ -12,3 +12,14 @@ One Database Server: This server will run MySQL, handling all database operation
 
 ### VMs Setup
 ![image](https://github.com/user-attachments/assets/5cb29c9e-a2d6-48bd-a10a-d2c096acf20a) <br>
+
+### Ansible controller setup
+Login(SSH) to the ansible_controller VM and install ansible and python. <br>
+```
+  sudo apt update
+  sudo apt install software-properties-common
+  sudo add-apt-repository --yes --update ppa:ansible/ansible
+  sudo apt install ansible
+```
+
+### Establish connections 
